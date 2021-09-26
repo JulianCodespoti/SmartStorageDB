@@ -11,7 +11,7 @@ This is a step by step guide on running this program.
 ### To run without opening Visual Studio.
 1. You must have .NET core installed. To install, follow the instructions in the following link: https://docs.microsoft.com/en-us/dotnet/core/install/windows?tabs=net50
 2. Download the zip file from github. 
-3. Extract the file open its directory.
+3. Extract the file and open its directory.
 4. Go to \SmartStorageDB\FurnitureInventorySystem, hold shift and right click anywhere in the folder. In the context menu, you will see the option to Open command window here. Clicking on it will open a CMD window.
 5. Run the command "dotnet run"
 6. The program should run. Select a factory and here you can create, remove and update furniture items from the database.
