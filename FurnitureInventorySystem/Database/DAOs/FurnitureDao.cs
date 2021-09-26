@@ -12,8 +12,8 @@ namespace FurnitureInventorySystem.Database
 
         public FurnitureDao()
         {
-            _connectionString = ConfigurationManager.ConnectionStrings["Default"].ConnectionString;
-        }
+            var workingDirectory = Environment.CurrentDirectory;
+            _connectionString = $"Data Source={workingDirectory}\\SmartStorageDB.db;Version=3;";        }
 
         public void Add(Furniture item)
         {
