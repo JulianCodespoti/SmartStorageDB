@@ -1,0 +1,126 @@
+C:\Users\Lachie\source\repos\FurnitureInventorySystem\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\FurnitureDB.db
+C:\Users\Lachie\source\repos\FurnitureInventorySystem\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\FurnitureInventorySystem.exe
+C:\Users\Lachie\source\repos\FurnitureInventorySystem\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\FurnitureInventorySystem.deps.json
+C:\Users\Lachie\source\repos\FurnitureInventorySystem\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\FurnitureInventorySystem.runtimeconfig.json
+C:\Users\Lachie\source\repos\FurnitureInventorySystem\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\FurnitureInventorySystem.runtimeconfig.dev.json
+C:\Users\Lachie\source\repos\FurnitureInventorySystem\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\FurnitureInventorySystem.dll
+C:\Users\Lachie\source\repos\FurnitureInventorySystem\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\FurnitureInventorySystem.pdb
+C:\Users\Lachie\source\repos\FurnitureInventorySystem\FurnitureInventorySystem\obj\Debug\netcoreapp3.1\FurnitureInventorySystem.csprojAssemblyReference.cache
+C:\Users\Lachie\source\repos\FurnitureInventorySystem\FurnitureInventorySystem\obj\Debug\netcoreapp3.1\FurnitureInventorySystem.Form1.resources
+C:\Users\Lachie\source\repos\FurnitureInventorySystem\FurnitureInventorySystem\obj\Debug\netcoreapp3.1\FurnitureInventorySystem.Properties.Resources.resources
+C:\Users\Lachie\source\repos\FurnitureInventorySystem\FurnitureInventorySystem\obj\Debug\netcoreapp3.1\FurnitureInventorySystem.csproj.GenerateResource.cache
+C:\Users\Lachie\source\repos\FurnitureInventorySystem\FurnitureInventorySystem\obj\Debug\netcoreapp3.1\FurnitureInventorySystem.AssemblyInfoInputs.cache
+C:\Users\Lachie\source\repos\FurnitureInventorySystem\FurnitureInventorySystem\obj\Debug\netcoreapp3.1\FurnitureInventorySystem.AssemblyInfo.cs
+C:\Users\Lachie\source\repos\FurnitureInventorySystem\FurnitureInventorySystem\obj\Debug\netcoreapp3.1\FurnitureInventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\Lachie\source\repos\FurnitureInventorySystem\FurnitureInventorySystem\obj\Debug\netcoreapp3.1\FurnitureInventorySystem.dll
+C:\Users\Lachie\source\repos\FurnitureInventorySystem\FurnitureInventorySystem\obj\Debug\netcoreapp3.1\FurnitureInventorySystem.pdb
+C:\Users\Lachie\source\repos\FurnitureInventorySystem\FurnitureInventorySystem\obj\Debug\netcoreapp3.1\FurnitureInventorySystem.genruntimeconfig.cache
+C:\Users\Lachie\source\repos\FurnitureInventorySystem\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\FurnitureInventorySystem.dll.config
+C:\Users\Lachie\source\repos\FurnitureInventorySystem\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\Lachie\source\repos\FurnitureInventorySystem\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lachie\source\repos\FurnitureInventorySystem\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+C:\Users\Lachie\source\repos\FurnitureInventorySystem\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Lachie\source\repos\FurnitureInventorySystem\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Lachie\source\repos\FurnitureInventorySystem\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Lachie\source\repos\FurnitureInventorySystem\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lachie\source\repos\FurnitureInventorySystem\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Lachie\source\repos\FurnitureInventorySystem\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Lachie\source\repos\FurnitureInventorySystem\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Lachie\source\repos\FurnitureInventorySystem\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lachie\source\repos\FurnitureInventorySystem\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Lachie\source\repos\FurnitureInventorySystem\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Lachie\source\repos\FurnitureInventorySystem\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Lachie\source\repos\FurnitureInventorySystem\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Lachie\source\repos\FurnitureInventorySystem\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Lachie\source\repos\FurnitureInventorySystem\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Lachie\source\repos\FurnitureInventorySystem\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\Lachie\source\repos\FurnitureInventorySystem\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lachie\source\repos\FurnitureInventorySystem\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Lachie\source\repos\FurnitureInventorySystem\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Lachie\source\repos\FurnitureInventorySystem\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Lachie\source\repos\FurnitureInventorySystem\FurnitureInventorySystem\obj\Debug\netcoreapp3.1\FurnitureInventorySystem.csproj.CopyComplete
+C:\Users\Lachie\source\repos\FurnitureInventorySystem\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\FastMember.dll
+C:\Users\Julian\Desktop\FurnitureInventorySystem-main\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\FurnitureDB.db
+C:\Users\Julian\Desktop\FurnitureInventorySystem-main\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\FurnitureInventorySystem.exe
+C:\Users\Julian\Desktop\FurnitureInventorySystem-main\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\FurnitureInventorySystem.dll.config
+C:\Users\Julian\Desktop\FurnitureInventorySystem-main\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\FurnitureInventorySystem.deps.json
+C:\Users\Julian\Desktop\FurnitureInventorySystem-main\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\FurnitureInventorySystem.runtimeconfig.json
+C:\Users\Julian\Desktop\FurnitureInventorySystem-main\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\FurnitureInventorySystem.runtimeconfig.dev.json
+C:\Users\Julian\Desktop\FurnitureInventorySystem-main\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\FurnitureInventorySystem.dll
+C:\Users\Julian\Desktop\FurnitureInventorySystem-main\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\FurnitureInventorySystem.pdb
+C:\Users\Julian\Desktop\FurnitureInventorySystem-main\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\Julian\Desktop\FurnitureInventorySystem-main\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\FastMember.dll
+C:\Users\Julian\Desktop\FurnitureInventorySystem-main\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Julian\Desktop\FurnitureInventorySystem-main\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+C:\Users\Julian\Desktop\FurnitureInventorySystem-main\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Julian\Desktop\FurnitureInventorySystem-main\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Julian\Desktop\FurnitureInventorySystem-main\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Julian\Desktop\FurnitureInventorySystem-main\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Julian\Desktop\FurnitureInventorySystem-main\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Julian\Desktop\FurnitureInventorySystem-main\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Julian\Desktop\FurnitureInventorySystem-main\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Julian\Desktop\FurnitureInventorySystem-main\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Julian\Desktop\FurnitureInventorySystem-main\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Julian\Desktop\FurnitureInventorySystem-main\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Julian\Desktop\FurnitureInventorySystem-main\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Julian\Desktop\FurnitureInventorySystem-main\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Julian\Desktop\FurnitureInventorySystem-main\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Julian\Desktop\FurnitureInventorySystem-main\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Julian\Desktop\FurnitureInventorySystem-main\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\Julian\Desktop\FurnitureInventorySystem-main\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Julian\Desktop\FurnitureInventorySystem-main\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Julian\Desktop\FurnitureInventorySystem-main\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Julian\Desktop\FurnitureInventorySystem-main\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Julian\Desktop\FurnitureInventorySystem-main\FurnitureInventorySystem\obj\Debug\netcoreapp3.1\FurnitureInventorySystem.csproj.AssemblyReference.cache
+C:\Users\Julian\Desktop\FurnitureInventorySystem-main\FurnitureInventorySystem\obj\Debug\netcoreapp3.1\FurnitureInventorySystem.Form1.resources
+C:\Users\Julian\Desktop\FurnitureInventorySystem-main\FurnitureInventorySystem\obj\Debug\netcoreapp3.1\FurnitureInventorySystem.Properties.Resources.resources
+C:\Users\Julian\Desktop\FurnitureInventorySystem-main\FurnitureInventorySystem\obj\Debug\netcoreapp3.1\FurnitureInventorySystem.csproj.GenerateResource.cache
+C:\Users\Julian\Desktop\FurnitureInventorySystem-main\FurnitureInventorySystem\obj\Debug\netcoreapp3.1\FurnitureInventorySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julian\Desktop\FurnitureInventorySystem-main\FurnitureInventorySystem\obj\Debug\netcoreapp3.1\FurnitureInventorySystem.AssemblyInfoInputs.cache
+C:\Users\Julian\Desktop\FurnitureInventorySystem-main\FurnitureInventorySystem\obj\Debug\netcoreapp3.1\FurnitureInventorySystem.AssemblyInfo.cs
+C:\Users\Julian\Desktop\FurnitureInventorySystem-main\FurnitureInventorySystem\obj\Debug\netcoreapp3.1\FurnitureInventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\Julian\Desktop\FurnitureInventorySystem-main\FurnitureInventorySystem\obj\Debug\netcoreapp3.1\FurnitureInventorySystem.csproj.CopyComplete
+C:\Users\Julian\Desktop\FurnitureInventorySystem-main\FurnitureInventorySystem\obj\Debug\netcoreapp3.1\FurnitureInventorySystem.dll
+C:\Users\Julian\Desktop\FurnitureInventorySystem-main\FurnitureInventorySystem\obj\Debug\netcoreapp3.1\FurnitureInventorySystem.pdb
+C:\Users\Julian\Desktop\FurnitureInventorySystem-main\FurnitureInventorySystem\obj\Debug\netcoreapp3.1\FurnitureInventorySystem.genruntimeconfig.cache
+G:\Other computers\My Laptop\Uni\FurnitureInventorySystem-main\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\FurnitureInventorySystem.exe
+G:\Other computers\My Laptop\Uni\FurnitureInventorySystem-main\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\FurnitureInventorySystem.dll.config
+G:\Other computers\My Laptop\Uni\FurnitureInventorySystem-main\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\FurnitureInventorySystem.deps.json
+G:\Other computers\My Laptop\Uni\FurnitureInventorySystem-main\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\FurnitureInventorySystem.runtimeconfig.json
+G:\Other computers\My Laptop\Uni\FurnitureInventorySystem-main\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\FurnitureInventorySystem.runtimeconfig.dev.json
+G:\Other computers\My Laptop\Uni\FurnitureInventorySystem-main\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\FurnitureInventorySystem.dll
+G:\Other computers\My Laptop\Uni\FurnitureInventorySystem-main\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\FurnitureInventorySystem.pdb
+G:\Other computers\My Laptop\Uni\FurnitureInventorySystem-main\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\Dapper.dll
+G:\Other computers\My Laptop\Uni\FurnitureInventorySystem-main\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\FastMember.dll
+G:\Other computers\My Laptop\Uni\FurnitureInventorySystem-main\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+G:\Other computers\My Laptop\Uni\FurnitureInventorySystem-main\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+G:\Other computers\My Laptop\Uni\FurnitureInventorySystem-main\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\Other computers\My Laptop\Uni\FurnitureInventorySystem-main\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+G:\Other computers\My Laptop\Uni\FurnitureInventorySystem-main\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+G:\Other computers\My Laptop\Uni\FurnitureInventorySystem-main\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\Other computers\My Laptop\Uni\FurnitureInventorySystem-main\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+G:\Other computers\My Laptop\Uni\FurnitureInventorySystem-main\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+G:\Other computers\My Laptop\Uni\FurnitureInventorySystem-main\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+G:\Other computers\My Laptop\Uni\FurnitureInventorySystem-main\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\Other computers\My Laptop\Uni\FurnitureInventorySystem-main\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\SQLite.Interop.dll
+G:\Other computers\My Laptop\Uni\FurnitureInventorySystem-main\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\SQLite.Interop.dll
+G:\Other computers\My Laptop\Uni\FurnitureInventorySystem-main\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SQLite.Interop.dll
+G:\Other computers\My Laptop\Uni\FurnitureInventorySystem-main\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SQLite.Interop.dll
+G:\Other computers\My Laptop\Uni\FurnitureInventorySystem-main\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\Other computers\My Laptop\Uni\FurnitureInventorySystem-main\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\Other computers\My Laptop\Uni\FurnitureInventorySystem-main\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+G:\Other computers\My Laptop\Uni\FurnitureInventorySystem-main\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Other computers\My Laptop\Uni\FurnitureInventorySystem-main\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+G:\Other computers\My Laptop\Uni\FurnitureInventorySystem-main\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+G:\Other computers\My Laptop\Uni\FurnitureInventorySystem-main\FurnitureInventorySystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\Other computers\My Laptop\Uni\FurnitureInventorySystem-main\FurnitureInventorySystem\obj\Debug\netcoreapp3.1\FurnitureInventorySystem.Properties.Resources.resources
+G:\Other computers\My Laptop\Uni\FurnitureInventorySystem-main\FurnitureInventorySystem\obj\Debug\netcoreapp3.1\FurnitureInventorySystem.csproj.GenerateResource.cache
+G:\Other computers\My Laptop\Uni\FurnitureInventorySystem-main\FurnitureInventorySystem\obj\Debug\netcoreapp3.1\FurnitureInventorySystem.GeneratedMSBuildEditorConfig.editorconfig
+G:\Other computers\My Laptop\Uni\FurnitureInventorySystem-main\FurnitureInventorySystem\obj\Debug\netcoreapp3.1\FurnitureInventorySystem.AssemblyInfoInputs.cache
+G:\Other computers\My Laptop\Uni\FurnitureInventorySystem-main\FurnitureInventorySystem\obj\Debug\netcoreapp3.1\FurnitureInventorySystem.AssemblyInfo.cs
+G:\Other computers\My Laptop\Uni\FurnitureInventorySystem-main\FurnitureInventorySystem\obj\Debug\netcoreapp3.1\FurnitureInventorySystem.csproj.CoreCompileInputs.cache
+G:\Other computers\My Laptop\Uni\FurnitureInventorySystem-main\FurnitureInventorySystem\obj\Debug\netcoreapp3.1\FurnitureInventorySystem.csproj.CopyComplete
+G:\Other computers\My Laptop\Uni\FurnitureInventorySystem-main\FurnitureInventorySystem\obj\Debug\netcoreapp3.1\FurnitureInventorySystem.dll
+G:\Other computers\My Laptop\Uni\FurnitureInventorySystem-main\FurnitureInventorySystem\obj\Debug\netcoreapp3.1\FurnitureInventorySystem.pdb
+G:\Other computers\My Laptop\Uni\FurnitureInventorySystem-main\FurnitureInventorySystem\obj\Debug\netcoreapp3.1\FurnitureInventorySystem.genruntimeconfig.cache
+G:\Other computers\My Laptop\Uni\FurnitureInventorySystem-main\FurnitureInventorySystem\obj\Debug\netcoreapp3.1\FurnitureInventorySystem.View.SmartForm.resources
