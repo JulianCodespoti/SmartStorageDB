@@ -1,6 +1,6 @@
 ﻿using Dapper;
+using System;
 using System.Collections.Generic;
-using System.Configuration;
 using System.Data;
 using System.Data.SQLite;
 
@@ -13,7 +13,8 @@ namespace FurnitureInventorySystem.Database.DAOs
         public FactoryDao()
         {
             var workingDirectory = Environment.CurrentDirectory;
-            _connectionString = $"Data Source={workingDirectory}\\SmartStorageDB.db;Version=3;";        }
+            _connectionString = $"Data Source={workingDirectory}\\SmartStorageDB.db;Version=3;";        
+        }
 
         public void Add(Factory item)
         {
